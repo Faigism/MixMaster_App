@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 const Wrapper = styled.nav`
   background: var(--white);
@@ -45,6 +45,6 @@ const Wrapper = styled.nav`
       margin-top: 0;
     }
   }
-`;
+`
 
-export default Wrapper;
+export default Wrapper
