@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link, useOutletContext } from 'react-router-dom'
 import Wrapper from '../assets/wrappers/CocktailCard'
 
 const CocktailCard = ({ image, id, name, info, glass }) => {
