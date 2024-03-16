@@ -71,6 +71,7 @@ body {
   font-weight: 400;
   line-height: 1;
   color: var(--textColor);
+  overflow-y: scroll;
 }
 p {
   margin: 0;
@@ -258,6 +259,7 @@ ul {
   border-radius: 50%;
   border-top-color: var(--primary-500);
   animation: spinner 0.6s linear infinite;
+  margin: auto;
 }
 
 /* title */
